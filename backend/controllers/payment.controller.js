@@ -28,6 +28,7 @@ export const createCheckoutSession = async (req, res) => {
 				quantity: product.quantity || 1,
 			};
 		});
+		console.log(lineItems)
 
 		let coupon = null;
 		if (couponCode) {
