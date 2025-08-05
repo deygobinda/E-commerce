@@ -1,8 +1,8 @@
 ﻿# 🛒 Online Shopping App
 
-A full-stack e-commerce application built with modern technologies, featuring user authentication, product management, shopping cart, payment processing, and admin analytics.
+A full-stack Online Shopping App application built with modern technologies, featuring user authentication, product management, shopping cart, payment processing, and admin analytics.
 
-![E-Commerce Screenshot](frontend/public/screenshot-for-readme.png)
+![Online Shopping App Screenshot](frontend/public/screenshot-for-readme.png)
 
 ## 🚀 Features
 
