@@ -1,6 +1,6 @@
 ﻿# 🛒 SwagCart
 
-A full-stack Online Shopping App application built with modern technologies, featuring user authentication, product management, shopping cart, payment processing, and admin analytics.
+A full-stack Online Shopping  platform built with modern technologies, featuring user authentication, product management, shopping cart, payment processing, and admin analytics.
 
 
 
@@ -133,5 +133,6 @@ A full-stack Online Shopping App application built with modern technologies, fea
 
 
 Built with ❤️ using modern web technologies
+
 
 
