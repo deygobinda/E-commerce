@@ -1,4 +1,5 @@
 ﻿<h1 align="center">🛒 SwagCart</h1>
+ 
 ![Demo App](/frontend/public/photo-collage.png.png)
 
 A full-stack Online Shopping  platform built with modern technologies, featuring user authentication, product management, shopping cart, payment processing, and admin analytics.
